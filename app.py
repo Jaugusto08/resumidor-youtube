@@ -1,8 +1,8 @@
 import tkinter as tk
 from tkinter import messagebox
 from youtube_transcript_api import YouTubeTranscriptApi
-import openai
 from openai import OpenAI
+import openai
 import os
 from dotenv import load_dotenv
 
